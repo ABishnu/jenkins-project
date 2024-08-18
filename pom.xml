@@ -22,10 +22,6 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>3.13.0</version>
-			<configuration>
-				<source>1.17</source> 
-        			<target>1.17</target>
-			</configuration>
 			<scope>test</scope>
 		</dependency>
 
